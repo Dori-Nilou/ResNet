@@ -1,0 +1,13 @@
+{
+    "NET_TYPE" : "pretrained",
+    "LR" : 0.1,
+    "OPTIMIZER" : "SGD",
+    "NUM_EPOCH" : 20,
+    "BATCH_SIZE" : 64,
+    "MOMENTUM" : 0.9,
+
+    "INPUT_SIZE" : 224,
+
+    "MODE" : "train",
+    "ID" : "None"
+}
